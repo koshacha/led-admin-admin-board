@@ -74,13 +74,6 @@ async function handleSubmit() {
               autocomplete="current-password"
             />
           </div>
-
-          <div>
-            <div
-              class="g-recaptcha"
-              data-sitekey="6LcO588qAAAAAMwcNpIutNiOWITzIBIyHudK7CaL"
-            ></div>
-          </div>
         </CardContent>
 
         <CardFooter class="flex flex-col space-y-4">
